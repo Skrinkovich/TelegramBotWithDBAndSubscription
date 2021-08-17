@@ -1,0 +1,12 @@
+sudo apt-get install python3-pip
+pip3 install pysqlite3
+pip3 install pyTelegramBotAPI
+pip3 install aiohttp
+
+
+python3 timer.py
+
+
+python3 mainer.py
+
+
