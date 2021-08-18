@@ -1,5 +1,5 @@
 # #отладка
-# token = "134RhmuxM"
+# token = ""
 # owner = '32'
 
 #рабочи
